@@ -51,7 +51,7 @@ about_profile_image: images/profile.jpeg
 # about_content: | # this will include new lines to allow paragraphs
 #   I'm a fullstack software engineer specializing in building and designing distributed services. Big passion for Devops culture and 'you build it you run it' methodology. I like to inspire other developers to not only develop but also own and maintain their projects. To think outside the box and not be afraid of what comes after the development phase. It doesn't just run on your machine and everyone should understand what happens after ;)
 about_content: | # this will include new lines to allow paragraphs
-  Equality is one of the central motives in my life. Communication my strength point. With my work I seek to give a voice to those who are too often overlooked by society.
+  Equality is one of the central motives in my life. Communication my strength. With my work I seek to give a voice to those who are too often overlooked by society.
 
 content:
   - title: Experience
@@ -62,7 +62,7 @@ content:
         sub_title: Communications Officer</br>
         caption:
         daterange: 01/2022 - present
-        link: https://www.dachstiftung-diakonie.de/
+        link: www.dachstiftung-diakonie.de
         quote:
         description: | # this will include new lines to allow paragraphs
           The **Dachstiftung Diakonie** is a social welfare organization with 4,000 employees. Corporate communications supports the social mission through public relations, fundraising and digitization. The traineeship included work and training in all areas of internal and external communications.<br>
@@ -77,7 +77,7 @@ content:
         sub_title: Campaign Intern
         caption:
         daterange: 09/2018 - 12/2018
-        link: https://www.ifaw.org/de
+        link: www.ifaw.org
         quote:
         description: | # this will include new lines to allow paragraphs
           Der International Fund for Animal Welfare ist eine weltweit tätige Tierschutzorganisation. 
@@ -90,7 +90,7 @@ content:
         sub_title: Internship External Relations & Sustainability
         caption:
         daterange: 10/2015 - 03/2016
-        link: https://www.volkswagen.de/de.html
+        link: www.volkswagen.de
         quote: >
           As part of Group Communications, the Political Department acts as an intermediary between the company, politics and civil society actors.
         description: | # this will include new lines to allow paragraphs
@@ -102,15 +102,11 @@ content:
         sub_title: Project Science creates good
         caption:
         daterange: 04/2015 - 09/2015
-        link: https://www.boell-sh.de/de
+        link: www.boell-sh.de
         quote:
         description: | # this will include new lines to allow paragraphs
           **RESPONSIBILITIES:**<br>
-          Frontend development for Shopware based online shops.
-          Development of Shopware plugins.
-          Connecting the online shops to ERP systems and interfaces to shipping and payment service providers.
-          Training of student assistants for product maintenance.
-          Supervision and design of WordPress Landingpages
+          Developing creative concepts, such as stakeholder and network analysis, to optimize public relations of the foundation.
   - title: Education
     layout: timeline
     content:
