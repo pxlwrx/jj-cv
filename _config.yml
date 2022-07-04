@@ -80,9 +80,9 @@ content:
         link: www.ifaw.org
         quote:
         description: | # this will include new lines to allow paragraphs
-          Der International Fund for Animal Welfare ist eine weltweit tätige Tierschutzorganisation. 
+          The International Fund for Animal Welfare is a global animal welfare organization. 
 
-          Objectives:
+          **RESPONSIBILITIES:**<br>
           Research and documentation in preparation for political lobbying. Support in organizing public events and campaigns. Target group-oriented preparation and communication of subjects, relevant to animal and wildlife protection. Support of social media channels and content creation.
 
       - layout: left
@@ -117,7 +117,8 @@ content:
         daterange: 10/2016 - 03/2020
         quote:
         description: | # this will include new lines to allow paragraphs
-          Specialization: Sustainability Policy, Civil Society, Development economics, labor market and social policy
+          **Specialization:**<br>
+          Sustainability Policy, Civil Society, Development economics, labor market and social policy
       - layout: top-left
         title: B.A. Sociology & Politics
         sub_title: Christian-Albrechts-University Kiel
@@ -125,7 +126,8 @@ content:
         daterange: 10/2012 - 09/2016
         quote:
         description: | # this will include new lines to allow paragraphs
-          Specialization: Economic and Organizational Sociology, Elective Business Studies, Marketing & Journalism
+          **Specialization:**<br>
+          Economic and Organizational Sociology, Elective Business Studies, Marketing & Journalism
 
   # - title: A Little More About Me
   #   layout: text
