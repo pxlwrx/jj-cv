@@ -79,10 +79,9 @@ content:
         caption:
         daterange: 09/2018 - 12/2018
         link: www.ifaw.org
-        quote:
+        quote: >
+          The International Fund for Animal Welfare is a global animal welfare organization.
         description: | # this will include new lines to allow paragraphs
-          The International Fund for Animal Welfare is a global animal welfare organization. 
-
           **RESPONSIBILITIES:**<br>
           Research and documentation in preparation for political lobbying. Support in organizing public events and campaigns. Target group-oriented preparation and communication of subjects, relevant to animal and wildlife protection. Support of social media channels and content creation.
 
@@ -141,7 +140,7 @@ content:
           </p>
         </div>
         <div class="col-xs-12 col-md-6">
-          <img src="images/bike.jpg" />
+          <img src="images/bike-jj.jpg" />
           </div>
       </div>
 # Footer
