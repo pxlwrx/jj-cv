@@ -1,5 +1,5 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: pxlwrx/jj-cv
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Johanna Schuleit
 title: Communication Officer @Dachstiftung Diakonie
-email: Johanna.Schuleit@t-onlinde.de
+email: Johanna.Schuleit@t-online.de
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
@@ -63,10 +63,11 @@ content:
         caption:
         daterange: 06/2020 - present
         link: www.dachstiftung-diakonie.de
-        quote:
+        quote: >
+          The **Dachstiftung Diakonie** is a social welfare organization with 4,000 employees. Corporate communications supports the social mission through public relations, fundraising and digitization. The traineeship included work and training in all areas of internal and external communications.
         description: | # this will include new lines to allow paragraphs
-          The **Dachstiftung Diakonie** is a social welfare organization with 4,000 employees. Corporate communications supports the social mission through public relations, fundraising and digitization. The traineeship included work and training in all areas of internal and external communications.<br>
           **Specialization as Communication Officer:** 
+          - Sustainability and change communication
           - Cross-media communication
             - Managing social media channels, website and intranet 
             - Writing articles & press releases; creating print and online media 
@@ -129,21 +130,20 @@ content:
           **Specialization:**<br>
           Economic and Organizational Sociology, Elective Business Studies, Marketing & Journalism
 
-  # - title: A Little More About Me
-  #   layout: text
-  #   content: | # this will include new lines to allow paragraphs
-  #     <div class="row">
-  #       <div class="col-xs-12 col-md-6 content">
-  #         <p>
-  #         When i'm not at work or otherwise in front of the computer you can find me ideally on the road bike or gravel bike on tour through nature, the further out the better :)
-  #         If the weather does not play along, I tinker with pet projects or home automation around<br>
-  #         </p>
-  #       </div>
-  #       <div class="col-xs-12 col-md-6">
-  #         <img src="images/bike.jpg" />
-  #         <iframe height='auto' width='100%' style="min-height: 200px; margin-top: 2rem;" frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/31512898/activity-summary/7dee0c0f16d353e312cf41df8ab76c4f43387085'></iframe>
-  #         </div>
-  #     </div>
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      <div class="row">
+        <div class="col-xs-12 col-md-6 content">
+          <p>
+          When i'm not at work you can find me ideally on the road bike or gravel bike on tour through nature, the further out the better :)
+          If the weather does not play along, I tinker with pet projects or home automation around<br>
+          </p>
+        </div>
+        <div class="col-xs-12 col-md-6">
+          <img src="images/bike.jpg" />
+          </div>
+      </div>
 # Footer
 footer_show_references: true
 references_title: References on request
